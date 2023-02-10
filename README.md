@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nurul Aini Lativah
 ==========================================================================================================================================
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rievaps.repoName) [![GitHub followers](https://img.shields.io/github/followers/rievaps.svg?style=social&label=Follow)](https://github.com/rievaps?tab=followers)<br/>
+
 I am a third year Multimedia Nusantara University student majoring in information systems with a specialization in Big Data Analytics. In these three years I have learned several programming languages such as Python, R, and also studied various software for creating data visualizations such as Tableau, Microsoft Power BI, and SAS Viya. I am very interested in learning, and developing my deeper skills regarding Data Analyst, Data Visualization, and various kinds of knowledge. Here I present a project that I completed during college.
 
 *   🌍  I'm based in Tangerang, Indonesia
